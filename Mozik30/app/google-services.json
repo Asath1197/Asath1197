@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842241873356",
+    "firebase_url": "https://mozik30.firebaseio.com",
+    "project_id": "mozik30",
+    "storage_bucket": "mozik30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842241873356:android:156b6c1737bfeb59",
+        "android_client_info": {
+          "package_name": "tp.edu.mozik30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842241873356-84e6e91b8nrv8b8enc7t37hupkkdqbes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tp.edu.mozik30",
+            "certificate_hash": "c7b16bdc9d814145b92fd3df498d2ae90343194f"
+          }
+        },
+        {
+          "client_id": "842241873356-eudbtck57vdjdbevs8agho1mhpn7c41l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6g9CQjBCLsm_kgAEqbgf3wQadT1eE0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842241873356-eudbtck57vdjdbevs8agho1mhpn7c41l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
